@@ -5,16 +5,12 @@ const foodSlice = createSlice({
     name: "foodSlice",
     initialState: {
         foods: [],
-        selected: null
     },
     reducers: {
         getFoodsData(){},
         getFoods(state,action){
             state.foods = action.payload
         },
-        setSelected(state,action){
-            state.selected = action.payload
-        }
     }
 })
 

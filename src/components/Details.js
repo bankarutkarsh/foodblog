@@ -10,7 +10,6 @@ function Details() {
   return (
     <div>
       <h1 className="text-xxl-center mt-3">{item.name}</h1>
-      <p className="text-center mt-3"><strong className="text-start">Description:</strong><br />{item.description}</p>
       <center className="d-flex">
         <img
           className="mt-2 ms-5 align-self-start object-fit-cover"
@@ -18,7 +17,14 @@ function Details() {
           src={item.image}
           alt="Food"
         />
-        <h1 className="text-start fs-3 ms-3 mt-3 ps-5">Recipe</h1>
+        <div className="mt-3  ms-2 text-start">
+        <p ><strong >Description:</strong>   {item.description}</p>
+        <p ><strong >Type:</strong>   {item.type}</p>
+        <p ><strong >Good for:</strong>   {item.goodFor}</p>
+        <p ><strong >Reviews:</strong>   {item.reviews}</p>
+        <p><strong >Price:</strong>   {item.price}</p>
+        </div>
+        
       </center>
     </div>
   );
