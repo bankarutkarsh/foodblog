@@ -1,0 +1,361 @@
+{
+  "foodItems": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "description": "A savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$10",
+      "goodFor": "2 people",
+      "reviews": "7.8",
+      "Recipe": [
+        "Step 1: Preheat the oven to 475°F (245°C).",
+        "Step 2: Roll out the dough on a lightly floured surface.",
+        "Step 3: Spread the tomato sauce over the dough, leaving a small border around the edges.",
+        "Step 4: Sprinkle cheese evenly over the sauce and add desired toppings.",
+        "Step 5: Bake in the preheated oven for 12-15 minutes or until the crust is golden brown."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "description": "A sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan-fried, grilled, smoked, or flame-broiled.",
+      "type": "Main Course",
+      "image": "https://yevgenysim-turkey.github.io/touche/assets/img/26.jpg",
+      "price": "$8",
+      "goodFor": "1 person",
+      "reviews": "8.2",
+      "Recipe": [
+        "Step 1: Preheat the grill or skillet to medium-high heat.",
+        "Step 2: Form the ground beef into patties and season with salt and pepper.",
+        "Step 3: Cook the patties for 4-5 minutes on each side, or until they reach the desired level of doneness.",
+        "Step 4: Toast the hamburger buns on the grill or in the skillet until lightly browned.",
+        "Step 5: Assemble the burgers by placing the cooked patties on the bottom buns and adding desired toppings."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sushi",
+      "description": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold-cooked rice served with a garnish of raw fish, vegetables, or egg.",
+      "type": "Appetizer",
+      "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3VzaGl8ZW58MHx8MHx8fDA%3D",
+      "price": "$15",
+      "goodFor": "1 person",
+      "reviews": "9.0",
+      "Recipe": [
+        "Step 1: Cook the sushi rice according to package instructions and let it cool.",
+        "Step 2: Prepare the fillings, such as fish, vegetables, or egg, by slicing them into thin strips.",
+        "Step 3: Place a sheet of nori (seaweed) on a bamboo rolling mat.",
+        "Step 4: Spread a thin layer of rice evenly over the nori, leaving a small border along the edges.",
+        "Step 5: Arrange the fillings in a line across the center of the rice."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pasta",
+      "description": "A staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGFzdGF8ZW58MHx8MHx8fDA%3D",
+      "price": "$12",
+      "goodFor": "1 person",
+      "reviews": "8.5",
+      "Recipe": [
+        "Step 1: Bring a large pot of salted water to a boil.",
+        "Step 2: Add the pasta to the boiling water and cook until al dente, according to package instructions.",
+        "Step 3: While the pasta is cooking, heat olive oil in a large skillet over medium heat.",
+        "Step 4: Add minced garlic to the skillet and cook until fragrant, about 1 minute.",
+        "Step 5: Drain the pasta and toss it with the garlic-infused oil, along with any desired toppings or sauces."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Salad",
+      "description": "A dish consisting of a mixture of small pieces of food, usually vegetables or fruit. However, different varieties of salad may contain virtually any type of ready-to-eat food.",
+      "type": "Appetizer",
+      "image": "https://images.unsplash.com/photo-1511910849309-0dffb8785146?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNhbGFkJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D",
+      "price": "$7",
+      "goodFor": "1 person",
+      "reviews": "7.3",
+      "Recipe": [
+        "Step 1: Wash and chop the salad ingredients, such as lettuce, tomatoes, cucumbers, and carrots.",
+        "Step 2: In a large bowl, toss the chopped ingredients together.",
+        "Step 3: Prepare the dressing by mixing olive oil, vinegar, salt, and pepper in a small bowl.",
+        "Step 4: Pour the dressing over the salad and toss to coat evenly.",
+        "Step 5: Serve immediately as a refreshing appetizer or side dish."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Steak",
+      "description": "A meat generally sliced across the muscle fibers, potentially including a bone. It is normally grilled, though can also be pan-fried.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1583953623787-ada99d338235?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFN0ZWFrfGVufDB8fDB8fHww",
+      "price": "$20",
+      "goodFor": "1 person",
+      "reviews": "8.9",
+      "Recipe": [
+        "Step 1: Preheat the grill to high heat.",
+        "Step 2: Season the steak generously with salt and pepper.",
+        "Step 3: Place the steak on the grill and cook for 3-4 minutes on each side for medium-rare, or until desired doneness is reached.",
+        "Step 4: Remove the steak from the grill and let it rest for a few minutes before serving.",
+        "Step 5: Slice the steak against the grain and serve with your favorite side dishes."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tacos",
+      "description": "A traditional Mexican dish consisting of a corn or wheat tortilla folded or rolled around a filling, typically of seasoned meat, beans, lettuce, and cheese.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1588556008426-af415581d44b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHRhY29zfGVufDB8fDB8fHww",
+      "price": "$10",
+      "goodFor": "1 person",
+      "reviews": "8.0",
+      "Recipe": [
+        "Step 1: Cook the seasoned meat in a skillet over medium heat until browned and cooked through.",
+        "Step 2: Warm the tortillas in a dry skillet or microwave.",
+        "Step 3: Assemble the tacos by placing a spoonful of cooked meat onto each tortilla.",
+        "Step 4: Top the meat with desired toppings, such as lettuce, cheese, salsa, and sour cream.",
+        "Step 5: Fold or roll the tortillas to enclose the filling and serve immediately."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Ramen",
+      "description": "A Japanese noodle soup consisting of broth, rice noodles (called bánh phở), herbs, and meat, primarily made with either beef or chicken.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHRhY29zfGVufDB8fDB8fHww",
+      "price": "$9",
+      "goodFor": "1 person",
+      "reviews": "8.7",
+      "Recipe": [
+        "Step 1: Bring a pot of water to a boil and add the ramen noodles.",
+        "Step 2: Cook the noodles according to package instructions, usually 3-4 minutes.",
+        "Step 3: While the noodles are cooking, prepare the broth by heating it in a separate pot.",
+        "Step 4: Once the noodles are cooked, drain them and divide them among serving bowls.",
+        "Step 5: Pour the hot broth over the noodles and add desired toppings, such as sliced meat, boiled eggs, and green onions."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chicken Wings",
+      "description": "A dish of chicken wings that are fried, unbreaded, and coated in vinegar-based hot sauce and butter. They are commonly served with celery sticks and ranch or blue cheese dressing.",
+      "type": "Appetizer",
+      "image": "https://images.unsplash.com/photo-1614398751058-eb2e0bf63e53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fENoaWNrZW4lMjBXaW5nc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": "$9",
+      "goodFor": "1 person",
+      "reviews": "8.3",
+      "Recipe": [
+        "Step 1: Preheat the oven to 425°F (220°C).",
+        "Step 2: Place the chicken wings on a baking sheet lined with parchment paper.",
+        "Step 3: Bake the wings for 45-50 minutes, flipping halfway through, until they are golden brown and crispy.",
+        "Step 4: In a small saucepan, melt butter and mix in hot sauce and vinegar.",
+        "Step 5: Toss the baked wings in the sauce until they are evenly coated, then serve immediately with celery sticks and ranch or blue cheese dressing."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Lasagna",
+      "description": "A type of wide, flat pasta, possibly one of the oldest types of pasta. It also refers to a dish made with several layers of this flat pasta, cheese, and meat or vegetables.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1629115916087-7e8c114a24ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGFzYWduYXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": "$14",
+      "goodFor": "1 person",
+      "reviews": "8.6",
+      "Recipe": [
+        "Step 1: Preheat the oven to 375°F (190°C).",
+        "Step 2: Cook the lasagna noodles according to package instructions and set aside.",
+        "Step 3: In a skillet, brown ground beef and onions over medium heat, then drain excess fat.",
+        "Step 4: In a separate bowl, mix ricotta cheese, egg, parsley, salt, and pepper.",
+        "Step 5: In a baking dish, layer lasagna noodles, meat sauce, ricotta mixture, and shredded mozzarella cheese, then repeat layers until the dish is full, ensuring the top layer is cheese. Cover with foil and bake for 25 minutes, then remove foil and bake for an additional 25 minutes until bubbly and golden. Let it cool for a few minutes before serving."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Fried Rice",
+      "description": "A dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RnJpZWQlMjBSaWNlfGVufDB8fDB8fHww",
+      "price": "$11",
+      "goodFor": "1 person",
+      "reviews": "7.9",
+      "Recipe": [
+        "Step 1: Cook the rice according to package instructions and let it cool completely.",
+        "Step 2: Heat oil in a large skillet or wok over medium-high heat.",
+        "Step 3: Add chopped vegetables and stir-fry until tender.",
+        "Step 4: Push the vegetables to the side of the skillet and add beaten eggs to the empty space.",
+        "Step 5: Once the eggs start to set, scramble them and mix with the vegetables, then add cooked rice and soy sauce, stirring well until heated through."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Caesar Salad",
+      "description": "A green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper.",
+      "type": "Appetizer",
+      "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$8",
+      "goodFor": "1 person",
+      "reviews": "8.0",
+      "Recipe": [
+        "Step 1: In a large bowl, whisk together lemon juice, olive oil, egg, Worcestershire sauce, minced anchovies, minced garlic, Dijon mustard, and black pepper.",
+        "Step 2: Add chopped romaine lettuce to the bowl and toss to coat with the dressing.",
+        "Step 3: Add grated Parmesan cheese and croutons to the salad and toss again until evenly distributed.",
+        "Step 4: Serve immediately as a refreshing appetizer or side dish.",
+        "Step 5: Optionally, top with grilled chicken or shrimp for a heartier meal."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Fish and Chips",
+      "description": "A hot dish consisting of fried fish in batter served with chips (French fries).",
+      "type": "Main Course",
+      "image": "https://plus.unsplash.com/premium_photo-1695758782705-ffbc04dae266?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RmlzaCUyMGFuZCUyMENoaXBzfGVufDB8fDB8fHww",
+      "price": "$13",
+      "goodFor": "1 person",
+      "reviews": "8.4",
+      "Recipe": [
+        "Step 1: Heat oil in a deep fryer or large pot to 375°F (190°C).",
+        "Step 2: In a bowl, mix flour, baking powder, and salt.",
+        "Step 3: Gradually stir in beer until the batter is smooth.",
+        "Step 4: Dip fish fillets in the batter, then carefully place them in the hot oil and fry until golden brown and crispy, about 4-5 minutes.",
+        "Step 5: Serve hot with freshly cooked chips (French fries) and tartar sauce or malt vinegar."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Pho",
+      "description": "A Vietnamese soup consisting of broth, rice noodles (called bánh phở), herbs, and meat, primarily made with either beef or chicken.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1511910849309-0dffb8785146?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGhvfGVufDB8fDB8fHww",
+      "price": "$10",
+      "goodFor": "1 person",
+      "reviews": "8.8",
+      "Recipe": [
+        "Step 1: In a large pot, combine beef or chicken bones with water and bring to a boil.",
+        "Step 2: Skim off any foam that rises to the surface, then reduce heat to low and simmer for at least 1 hour, up to 4 hours, to develop flavor.",
+        "Step 3: Meanwhile, char onions, ginger, and spices until fragrant, then add to the pot along with fish sauce and sugar.",
+        "Step 4: Continue to simmer the broth for another hour, then strain it through a fine-mesh sieve and return it to the pot.",
+        "Step 5: Cook rice noodles according to package instructions, then divide them among serving bowls and top with sliced meat and hot broth. Serve with fresh herbs, lime wedges, bean sprouts, and chili sauce."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Curry",
+      "description": "A variety of dishes originating in the Indian subcontinent that use a complex combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried...",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q3Vycnl8ZW58MHx8MHx8fDA%3D",
+      "price": "$12",
+      "goodFor": "1 person",
+      "reviews": "8.2",
+      "Recipe": [
+        "Step 1: Heat oil in a large skillet or pot over medium heat.",
+        "Step 2: Add chopped onions, garlic, and ginger to the skillet and sauté until softened and fragrant.",
+        "Step 3: Stir in curry powder, ground turmeric, ground cumin, ground coriander, and other desired spices, toasting them for a minute to release their flavors.",
+        "Step 4: Add diced tomatoes and coconut milk to the skillet, stirring well to combine, then bring the mixture to a simmer.",
+        "Step 5: Add protein of choice (such as chicken, beef, tofu, or vegetables) to the skillet and let it simmer until cooked through and flavors meld together. Serve hot over rice or with naan bread."
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Burrito",
+      "description": "A type of Mexican and Tex-Mex food, consisting of a large wheat flour tortilla wrapped around a filling often including rice, beans, meat, and cheese.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QnVycml0b3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": "$10",
+      "goodFor": "1 person",
+      "reviews": "8.1",
+      "Recipe": [
+        "Step 1: Warm a large wheat flour tortilla in the microwave or on a skillet.",
+        "Step 2: Spread a layer of cooked rice in the center of the tortilla.",
+        "Step 3: Add a layer of cooked beans (such as black beans or refried beans) on top of the rice.",
+        "Step 4: Place desired filling ingredients on top of the beans, such as cooked meat (chicken, beef, pork), shredded cheese, diced tomatoes, lettuce, salsa, and sour cream.",
+        "Step 5: Fold the sides of the tortilla over the filling, then roll it up tightly into a burrito shape. Serve immediately or wrap in foil to keep warm."
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Pancakes",
+      "description": "A flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk, and butter and cooked on a hot surface such as a griddle or frying pan.",
+      "type": "Breakfast",
+      "image": "https://images.unsplash.com/photo-1587339144367-f1cacbecac82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGFuY2FrZXN8ZW58MHx8MHx8fDA",
+      "price": "$7",
+      "goodFor": "1 person",
+      "reviews": "8.4",
+      "Recipe": [
+        "Step 1: In a large mixing bowl, whisk together flour, sugar, baking powder, and salt.",
+        "Step 2: In a separate bowl, whisk together milk, egg, and melted butter.",
+        "Step 3: Pour the wet ingredients into the dry ingredients and stir until just combined. Some lumps are okay.",
+        "Step 4: Heat a lightly greased griddle or frying pan over medium-high heat.",
+        "Step 5: Pour a scoop of batter onto the griddle for each pancake and cook until bubbles form on the surface, then flip and cook until golden brown on both sides."
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ice Cream",
+      "description": "A sweetened frozen food typically eaten as a snack or dessert. It is usually made from dairy products, such as milk and cream, and often combined with fruits ingredients and flavors.",
+      "type": "Dessert",
+      "image": "https://images.unsplash.com/photo-1567206563064-6f60f40a2b57?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SWNlJTIwQ3JlYW18ZW58MHx8MHx8fDA",
+      "price": "$5",
+      "goodFor": "1 person",
+      "reviews": "9.3",
+      "Recipe": [
+        "Step 1: In a mixing bowl, whisk together heavy cream and sweetened condensed milk until smooth.",
+        "Step 2: Add desired flavors and mix-ins, such as vanilla extract, cocoa powder, fruit puree, or crushed cookies.",
+        "Step 3: Pour the mixture into an ice cream maker and churn according to manufacturer's instructions until it reaches a soft-serve consistency.",
+        "Step 4: Transfer the ice cream to a freezer-safe container and freeze for several hours or until firm.",
+        "Step 5: Serve scoops of ice cream in bowls or cones, optionally topped with whipped cream, chocolate sauce, or sprinkles."
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Chicken Caesar Salad",
+      "description": "A variation of the classic Caesar salad, adding grilled or roasted chicken.",
+      "type": "Main Course",
+      "image": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q2hpY2tlbiUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fHww",
+      "price": "$10",
+      "goodFor": "1 person",
+      "reviews": "8.7",
+      "Recipe": [
+        "Step 1: Wash and chop romaine lettuce into bite-sized pieces.",
+        "Step 2: Grill or roast chicken until fully cooked, then slice or shred it.",
+        "Step 3: In a large bowl, toss together the chopped lettuce, chicken, croutons, and Caesar dressing.",
+        "Step 4: Top the salad with grated Parmesan cheese and freshly ground black pepper.",
+        "Step 5: Serve immediately and enjoy!"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Nachos",
+      "description": "A Tex-Mex dish consisting of heated tortilla chips or totopos covered with melted cheese (or a cheese-based sauce), often served as a snack or appetizer.",
+      "type": "Appetizer",
+      "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmFjaG9zfGVufDB8fDB8fHww",
+      "price": "$8",
+      "goodFor": "1 person",
+      "reviews": "8.5",
+      "Recipe": [
+        "Step 1: Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+        "Step 2: Spread a layer of tortilla chips on the prepared baking sheet.",
+        "Step 3: Sprinkle grated cheese evenly over the chips, then add toppings such as sliced jalapenos, black beans, and diced tomatoes.",
+        "Step 4: Repeat layering with another round of chips, cheese, and toppings.",
+        "Step 5: Bake in the preheated oven for 10-15 minutes, or until cheese is melted and bubbly."
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Apple Pie",
+      "description": "A fruit pie in which the principal filling ingredient is apple. It is often served with whipped cream, ice cream, or cheddar cheese.",
+      "type": "Dessert",
+      "image": "https://images.unsplash.com/photo-1562007908-17c67e878c88?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBwbGUlMjBQaWV8ZW58MHx8MHx8fDA",
+      "price": "$8",
+      "goodFor": "1 person",
+      "reviews": "9.1",
+      "Recipe": [
+        "Step 1: Preheat oven to 375°F (190°C).",
+        "Step 2: Prepare the pie crust by rolling out the dough and placing it in a pie dish.",
+        "Step 3: In a large bowl, mix together sliced apples, sugar, flour, cinnamon, and nutmeg.",
+        "Step 4: Pour the apple mixture into the pie crust and dot with butter.",
+        "Step 5: Cover the pie with the second pie crust, seal the edges, and cut slits in the top crust to allow steam to escape. Bake for 45-50 minutes, or until the crust is golden brown and the filling is bubbly."
+      ]
+    }
+  ]
+}

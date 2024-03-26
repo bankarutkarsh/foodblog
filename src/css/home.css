@@ -1,0 +1,17 @@
+.item{
+    gap: 25px;
+    width: 48%;
+    cursor: pointer;
+}
+.contain{
+    gap: 25px;
+}
+img{
+    width: 12vw;
+    height: 12vw;
+    object-fit: cover;
+    object-position: center;
+}
+.price{
+    cursor: default;
+}
